@@ -1,0 +1,10 @@
+langchain 
+numpy 
+langchain-community 
+streamlit  
+python-docx
+unstructured
+chromadb 
+langchain-groq 
+fastembed 
+pypdf
